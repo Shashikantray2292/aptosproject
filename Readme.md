@@ -1,5 +1,8 @@
 # GroupTravelPlanning Smart Contract
 
+ID: 0x33aa082f2d1ce86463a3157eac44645032c69c414ac31d95394fa71d73030373
+![image](https://github.com/user-attachments/assets/6adc3b46-ebbb-4f2e-96ab-5388d7b37210)
+
 ## Vision
 
 The **GroupTravelPlanning** smart contract simplifies the process of organizing and managing group trips. It enables users to create trips, collect contributions from participants, and track expenses, ensuring transparency and accountability throughout the trip planning process.
